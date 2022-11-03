@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">Full Stack Developer from Detroit, MI</h3>
+<h3 align="center">Software Engineer from Detroit, MI</h3>
 
 - 📫 How to reach me **eddevdetroit@gmail.com**
 
